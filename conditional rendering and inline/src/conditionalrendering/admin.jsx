@@ -1,6 +1,6 @@
 
 
-
+import "./admin.css"
 
 function Admin() {
 
@@ -8,7 +8,7 @@ function Admin() {
 
         <>
 
-            <h1>hlo this is admin</h1>
+            <h1 className="hi">hlo this is admin</h1>
 
         </>
 
